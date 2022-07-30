@@ -5,7 +5,6 @@ Download Link:
 
 Drive:
 # How To Use This?
-You Can Flash This File Using BalenaEtcher at http://balena.io/etcher
-Or Rufus At http://rufus.ie/en/
+You Can Flash This File Using Rufus At http://rufus.ie/en/
 # Have Any Questions
 E-mail me at : devyanshkeshri42@gmail.com
